@@ -8,7 +8,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Demo
 
-https://muhammad-abdusalam.github.io/Profile-card-component/
+https://devmuhammadadam.github.io/Profile-card-component/
 
 ### Built with ⚒️
 
@@ -19,4 +19,4 @@ https://muhammad-abdusalam.github.io/Profile-card-component/
 ### Author
 
 - Frontend Mentor - [@Muhammad-adam778](https://www.frontendmentor.io/profile/Muhammad-adam778)
-- Linkedin - [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
+- Linkedin - [@devmuhammadadam](https://www.linkedin.com/in/devmuhammadadam)
